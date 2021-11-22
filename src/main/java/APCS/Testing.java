@@ -9,7 +9,7 @@ public class Testing extends PApplet {
 
     @Override
     public void settings() {
-        size(1000, 1000);
+        size(900, 900);
     }
 
     int y = (int) (Math.random() * 500);
